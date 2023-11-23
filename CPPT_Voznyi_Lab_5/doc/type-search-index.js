@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"ki307.voznyi.lab5","l":"Equations_Lab5"},{"p":"ki307.voznyi.lab5","l":"FileIO_Class"},{"p":"ki307.voznyi.lab5","l":"FioJava"}];updateSearchResults();
